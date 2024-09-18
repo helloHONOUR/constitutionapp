@@ -24,7 +24,6 @@ class _MyHomePageState extends State<MyHomePage> {
             child: Column(
               children: [
                 Container(
-                  color: Colors.blue,
                   width: 600,
                   padding: const EdgeInsets.only(left: 3, bottom: 10.0),
                   child: Row(
